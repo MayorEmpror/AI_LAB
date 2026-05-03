@@ -1,4 +1,4 @@
-# 🤖 AI Lab Repository (Labs 7–12)
+# 🤖 AI Lab Repository (Labs 1–12)
 
 This repository contains implementations and examples of core Artificial Intelligence and Data Science concepts, including optimization, probability, machine learning, preprocessing, and visualization.
 
